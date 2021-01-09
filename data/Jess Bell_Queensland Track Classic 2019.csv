@@ -1,0 +1,30 @@
+,THROW,,,,,,
+,1,2,3,4,5,6,Average
+SUMMARY,,,,,,,
+Distance (m),X,48.53,48.34,45.24,,,
+CRITICAL PHASE DURATIONS (s),,,,,,,
+Impulse Contact,0.14,0.14,0.14,0.15,,,0.1425
+Impulse Phase,0.38,0.38,0.39,0.4,,,0.3875
+Delivery Phase,0.19,0.19,0.2,0.19,,,0.1925
+Release Phase,0.14,0.14,0.13,0.15,,,0.14
+ANGULAR RELEASE PARAMETERS,,,,,,,
+Attitude (°),,,,,,,
+Release (°),38,39,36,41,,,38.5
+Attack (°),9,9,13,7,,,9.5
+Yaw (°),21,26,26,24,,,24.25
+VoR (m/s),,,,,,,
+KNEE ANGULAR RELEASE PARAMETERS,,,,,,,
+PKAc (°),172,173,175,176,,,174
+PKAm (°),147,149,155,147,,,149.5
+Difference,25,24,20,29,,,24.5
+ELBOW ANGULAR RELEASE PARAMETERS,,,,,,,
+Elbow Angle (°),130,125,128,126,,,127.25
+Jav-Forearm Angle (°),81,88,89,86,,,86
+DISTANCES,,,,,,,
+ISL (cm),1.79,1.89,1.84,1.93,,,1.8625
+BSL (cm),1.47,1.48,1.58,1.52,,,1.5125
+ISL:BSL (%),22%,28%,16%,27%,,,23%
+NA Draw Length (m),,,,,,,
+Pull Length (m),,,,,,,
+Draw distance (m),2.25,2.25,2.33,2.18,,,2.2525
+Release distance (m),,,,,,,
