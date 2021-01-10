@@ -14,7 +14,7 @@ library(ggplot2)
 library(RColorBrewer)
 library(forcats)
 
-data_folder <- "C:/Users/aaron.beach/OneDrive - nswis.com.au/GitHub/Javelin-Database/data"
+data_folder <- "/Users/aaron/Documents/GitHub/Javelin-Database/data"
 
 filenames = list.files(data_folder, pattern = "*.csv", full.names = T)
 dataname = basename(filenames)
