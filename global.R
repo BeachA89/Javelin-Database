@@ -81,6 +81,6 @@ Collateddatadf$Distance = as.numeric(Collateddatadf$Distance)
   
   
   
-#imported_data <- read.csv("C:/Users/aaron.beach/OneDrive - nswis.com.au/R/Hammer Conversion/sample2.csv", header=FALSE, stringsAsFactors=FALSE)
+#imported_data <- read.csv("C:/Users/aaron.beach/..../R/Hammer Conversion/sample2.csv", header=FALSE, stringsAsFactors=FALSE)
 
 
